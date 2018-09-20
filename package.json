@@ -1,0 +1,22 @@
+{
+    "name": "micro-utils",
+    "version": "1.0.0",
+    "description": "Utilities and HOFs for TechnoBros Microservices",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ramiyahya/micro-utils.git"
+    },
+    "author": "Rami Yahya <contact@ramiyahya.com> (http://ramiyahya.com)",
+    "license": "UNLICENSED",
+    "bugs": {
+        "url": "https://github.com/ramiyahya/micro-utils/issues"
+    },
+    "homepage": "https://github.com/ramiyahya/micro-utils#readme",
+    "devDependencies": {
+        "prettier": "1.14.3"
+    },
+    "dependencies": {
+        "micro-cors": "^0.1.0"
+    }
+}
